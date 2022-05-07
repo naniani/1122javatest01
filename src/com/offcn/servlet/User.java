@@ -2,6 +2,7 @@ package com.offcn.servlet;
 
 public class User {
 
+    private int aaa;
     private int id;
     private String name;
     private int age;
